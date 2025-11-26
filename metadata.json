@@ -1,0 +1,5 @@
+{
+  "name": "VietPlan AI - ESL Lesson Generator",
+  "description": "An AI-powered lesson plan generator specifically designed for ESL teachers in Vietnam. Generates structured plans, games, homework, and materials based on class specific needs.",
+  "requestFramePermissions": []
+}
